@@ -1,0 +1,26 @@
+{
+  "id": "batch3-ohio",
+  "date": "2026-04-15T18:03:29.593693",
+  "businesses_found": 15,
+  "emails_sent": 9,
+  "templates_used": [
+    "A: Free market report",
+    "B: Quick question"
+  ],
+  "sent_to": [
+    "info@columbuscleaning.com (Ross Cleaners)",
+    "info@myclothingcare.com (Clothing Care Upper Arlington)",
+    "info@martinizingwesterville.com (Martinizing Westerville)",
+    "info@columbuscleaning.com (Bart's Cleaners)",
+    "info@martinizingnewalbany.com (Martinizing New Albany)",
+    "info@granvillecleaners.com (Granville Cleaners)",
+    "info@dcsonbethel.com (Dry Cleaning Station)",
+    "info@midtowndrycleaners.com (Midtown Dry Cleaners)",
+    "info@columbuscleaning.com (Powell Cleaners)",
+    "info@clothingcare.com (Clothing Care Gahanna)",
+    "info@dublincleaners.com (New Albany Cleaners)"
+  ],
+  "blocked": [
+    "info@tidecleaners.com (bounced)"
+  ]
+}

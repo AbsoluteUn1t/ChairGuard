@@ -1,0 +1,135 @@
+[2026-04-10 13:54:38] === Starting Daily Outreach Pipeline ===
+[2026-04-10 13:54:38] Ollama running. Starting pipeline...
+[2026-04-10 13:54:38] Step 1: Fetching BBB listings for Dublin OH area...
+[2026-04-10 13:54:38] Step 2: Running research agent (Mistral Nemo) to find 10+ emails...
+ERROR: No JSON found in response
+[2026-04-10 13:54:39] ERROR: Research agent returned no valid JSON
+[2026-04-10 13:55:31] === Starting Daily Outreach Pipeline ===
+[2026-04-10 13:55:31] Ollama running. Starting pipeline...
+[2026-04-10 13:55:31] Step 1: Fetching BBB listings...
+[2026-04-10 13:55:32] BBB fetch: 180565 bytes received
+[2026-04-10 13:55:32] Step 2: Research agent (Mistral Nemo) finding emails...
+[2026-04-10 14:00:29] === Starting Daily Outreach Pipeline ===
+[2026-04-10 14:00:29] Ollama running. Starting pipeline...
+[2026-04-10 14:00:29] Step 1: Fetching BBB listings...
+[2026-04-10 14:00:30] BBB fetch: 180565 bytes received
+[2026-04-10 14:00:30] Step 2: Research agent (Mistral Nemo) finding emails...
+[2026-04-10 14:04:19] Research found 10 businesses
+[2026-04-10 14:04:19] Step 3: Drafting cold emails...
+[2026-04-10 14:06:56] Drafted 5 emails
+[2026-04-10 14:06:56] Step 4: Saving results...
+[2026-04-10 14:07:49] === Starting Daily Outreach Pipeline ===
+[2026-04-10 14:07:49] Ollama running. Starting pipeline...
+[2026-04-10 14:07:49] Step 1: Fetching BBB listings...
+[2026-04-10 14:07:51] BBB fetch: 180546 bytes received
+[2026-04-10 14:07:51] Step 2: Research agent (Mistral Nemo) finding emails...
+[2026-04-10 14:11:40] Research found 10 businesses
+[2026-04-10 14:11:40] Step 3: Drafting cold emails...
+[2026-04-10 14:15:27] === Daily Outreach Pipeline ===
+[2026-04-10 14:15:28] Businesses needing emails: 25
+[2026-04-10 14:15:28] Searching for email: Economy Linen & Towel Service of Zanesville and Columbus...
+[2026-04-10 14:15:28]   Not found
+[2026-04-10 14:15:28] Searching for email: Sunbury Cleaners...
+[2026-04-10 14:15:28]   Not found
+[2026-04-10 14:15:28] Searching for email: The Columbus Lace Cleaning Company...
+[2026-04-10 14:15:28]   Not found
+[2026-04-10 14:15:28] Searching for email: Soap City Laundry, LLC...
+[2026-04-10 14:15:28]   Not found
+[2026-04-10 14:15:28] Searching for email: Soap City Laundry, LLC...
+[2026-04-10 14:15:28]   Not found
+[2026-04-10 14:15:28] Searching for email: Sunbury Cleaners...
+[2026-04-10 14:15:28]   Not found
+[2026-04-10 14:15:28] Searching for email: Sunbury Cleaners...
+[2026-04-10 14:15:28]   Not found
+[2026-04-10 14:15:28] Searching for email: Eastwood Laundry Center, LLC...
+[2026-04-10 14:15:28]   Not found
+[2026-04-10 14:15:28] Searching for email: Lamb's Dry Cleaners & Car Wash, LLC...
+[2026-04-10 14:15:28]   Not found
+[2026-04-10 14:15:28] Searching for email: Metropolitan Cleaners...
+[2026-04-10 14:15:28]   Not found
+[2026-04-10 14:15:28] Total businesses with emails: 0
+[2026-04-10 14:15:28] No new emails to draft today
+[2026-04-10 14:15:28] DONE: 10 total emails | 2 with real addresses
+[2026-04-10 14:15:28] New emails drafted today: 0
+[2026-04-10 14:16:31] === Daily Outreach Pipeline ===
+[2026-04-10 14:16:31] Businesses needing emails: 25
+[2026-04-10 14:16:31] Searching: Economy Linen & Towel Service of Zanesville and Columbus
+[2026-04-10 14:16:32]   ✓ Found: error-lite@duckduckgo.com
+[2026-04-10 14:16:32] Searching: Sunbury Cleaners
+[2026-04-10 14:16:32]   ✓ Found: error-lite@duckduckgo.com
+[2026-04-10 14:16:32] Searching: The Columbus Lace Cleaning Company
+[2026-04-10 14:16:32]   ✓ Found: error-lite@duckduckgo.com
+[2026-04-10 14:16:32] Searching: Soap City Laundry, LLC
+[2026-04-10 14:16:32]   ✓ Found: error-lite@duckduckgo.com
+[2026-04-10 14:16:32] Searching: Soap City Laundry, LLC
+[2026-04-10 14:16:33]   ✓ Found: error-lite@duckduckgo.com
+[2026-04-10 14:16:33] Searching: Sunbury Cleaners
+[2026-04-10 14:16:33]   ✓ Found: error-lite@duckduckgo.com
+[2026-04-10 14:16:33] Searching: Sunbury Cleaners
+[2026-04-10 14:16:33]   ✓ Found: error-lite@duckduckgo.com
+[2026-04-10 14:16:33] Searching: Eastwood Laundry Center, LLC
+[2026-04-10 14:16:33]   ✓ Found: error-lite@duckduckgo.com
+[2026-04-10 14:16:33] Searching: Lamb's Dry Cleaners & Car Wash, LLC
+[2026-04-10 14:16:33]   ✓ Found: error-lite@duckduckgo.com
+[2026-04-10 14:16:33] Searching: Metropolitan Cleaners
+[2026-04-10 14:16:33]   ✓ Found: error-lite@duckduckgo.com
+[2026-04-10 14:16:33] Total with emails: 10
+[2026-04-10 14:16:33] Drafting 10 emails...
+[2026-04-10 14:20:56] Drafted 9 emails
+[2026-04-10 14:20:56] DONE: 19 total drafts | 11 confirmed emails | 9 new today
+[2026-04-10 14:23:03] === Daily Outreach Pipeline ===
+[2026-04-10 14:23:03] Businesses needing emails: 25
+[2026-04-10 14:23:03] Total with emails: 0
+[2026-04-10 14:23:03] DONE: 2 total | 2 confirmed emails | 0 new today
+[2026-04-10 14:23:51] === Daily Outreach Pipeline ===
+[2026-04-10 14:23:51] Businesses needing emails: 25
+[2026-04-10 14:23:51] Researching 15 businesses via Mistral Nemo...
+[2026-04-10 14:28:10] Mistral found data for 15 businesses
+[2026-04-10 14:28:10] Checking websites for contact emails...
+[2026-04-10 14:28:10] Total with emails: 5
+[2026-04-10 14:28:10] Drafting 5 emails via Mistral Nemo...
+[2026-04-10 14:29:44] === Daily Outreach Pipeline ===
+[2026-04-10 14:29:44] Businesses needing emails: 20
+[2026-04-10 14:29:44] Researching 15 businesses via Mistral Nemo...
+[2026-04-10 14:30:35] ✓ Drafted 5 emails
+[2026-04-10 14:30:35] DONE: 7 total | 7 confirmed | 5 new today
+[2026-04-10 14:30:35]   Sunbury Cleaners -> info@sunburycleaners.com
+[2026-04-10 14:30:35]   Soap City Laundry, LLC -> info@soapcitylaundry.com
+[2026-04-10 14:30:35]   Lamb's Dry Cleaners & Car Wash, LLC -> info@lambsdrycleaners.com
+[2026-04-10 14:30:35]   Executive Cleaners -> info@executivecleaners.com
+[2026-04-10 14:30:35]   Calloway Cleaning & Restoration Inc. -> info@callowaycleaning.com
+[2026-04-10 14:34:35] Mistral found data for 15 businesses
+[2026-04-10 14:34:35] Checking websites for contact emails...
+[2026-04-10 14:34:35] Total with emails: 8
+[2026-04-10 14:34:35] Drafting 8 emails via Mistral Nemo...
+[2026-04-10 14:38:25] ✓ Drafted 8 emails
+[2026-04-10 14:38:25] DONE: 10 total | 10 confirmed | 8 new today
+[2026-04-10 14:38:25]   Sunbury Cleaners -> info@sunburycleaners.com
+[2026-04-10 14:38:25]   The Columbus Lace Cleaning Company -> info@columbuslacecleaning.com
+[2026-04-10 14:38:25]   Soap City Laundry, LLC -> info@soapcitylaundry.com
+[2026-04-10 14:38:25]   Lamb's Dry Cleaners & Car Wash, LLC -> info@lambsdrycleaners.com
+[2026-04-10 14:38:25]   Executive Cleaners -> info@executivecleaners.com
+[2026-04-10 14:38:25]   The Mr. Shoppe -> themrshoppe@embarqmail.com
+[2026-04-10 14:38:25]   Calloway Cleaning & Restoration Inc. -> info@callowaycleaning.com
+[2026-04-10 14:38:25]   Kroner's Drycleaners, Inc. -> info@kronersdrycleaning.com
+[2026-04-10 17:00:01] === Daily Outreach Pipeline ===
+[2026-04-10 17:00:01] Businesses needing emails: 10
+[2026-04-10 17:00:01] Researching 10 businesses via Mistral Nemo...
+[2026-04-10 17:01:57] Mistral found data for 1 businesses
+[2026-04-10 17:01:57] Checking websites for contact emails...
+[2026-04-10 17:01:57] Total with emails: 15
+[2026-04-10 17:01:57] Drafting 4 emails via Mistral Nemo...
+[2026-04-10 17:04:13] ✓ Drafted 4 emails
+[2026-04-10 17:04:13] DONE: 14 total | 14 confirmed | 12 new today
+[2026-04-10 17:04:13]   Sunbury Cleaners -> info@sunburycleaners.com
+[2026-04-10 17:04:13]   The Columbus Lace Cleaning Company -> info@columbuslacecleaning.com
+[2026-04-10 17:04:13]   Soap City Laundry, LLC -> info@soapcitylaundry.com
+[2026-04-10 17:04:13]   Lamb's Dry Cleaners & Car Wash, LLC -> info@lambsdrycleaners.com
+[2026-04-10 17:04:13]   Executive Cleaners -> info@executivecleaners.com
+[2026-04-10 17:04:13]   The Mr. Shoppe -> themrshoppe@embarqmail.com
+[2026-04-10 17:04:13]   Calloway Cleaning & Restoration Inc. -> info@callowaycleaning.com
+[2026-04-10 17:04:13]   Kroner's Drycleaners, Inc. -> info@kronersdrycleaning.com
+[2026-04-10 17:04:13]   Economy Linen & Towel Service of Zanesville and Columbus -> economylinen@gmail.com
+[2026-04-10 17:04:13]   Eastwood Laundry Center, LLC -> eastwoodlaundry@msn.com
+[2026-04-10 17:04:13]   Metropolitan Cleaners -> 70mainmet@gmail.com
+[2026-04-10 17:04:13]   Quality Dry Cleaners and Shirt Laundry Inc. -> qualitydrycleanersdayton@gmail.com

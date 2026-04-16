@@ -1,0 +1,19 @@
+Sending 16 queued emails...
+  ✅ The Columbus Lace Cleaning Company -> info@columbuslacecleaning.com
+  ✅ The Mr. Shoppe -> themrshoppe@embarqmail.com
+  ✅ Kroner's Drycleaners, Inc. -> info@kronersdrycleaning.com
+  ✅ Economy Linen & Towel Service of Zanesville and Columbus -> economylinen@gmail.com
+  ❌ Eastwood Laundry Center, LLC: {'name': 'MessageRejectedError', 'message': 'Message rejected: Recipient(s) blocked: eastwoodlaundry@msn.com (bounced)'}
+  ❌ Quality Dry Cleaners and Shirt Laundry Inc.: {'name': 'MessageRejectedError', 'message': 'Message rejected: Recipient(s) blocked: qualitydrycleanersdayton@gmail.com (bounced)'}
+  ✅ Fox Cleaners and Laundromat -> info@thefoxcleaners.com
+  ✅ Long Cleaners -> tomperry@longcleaners.com
+  ✅ Heider Clothing Care Dry Cleaners -> icc12llc@comcast.net
+  ✅ Capitol Cleaners -> evan@brooksby.com
+  ✅ Quality Dry Cleaners -> thequalitydrycleaners@gmail.com
+  ✅ Metropolitan Dry Cleaners -> lbeddies@gmail.com
+  ✅ Fiber Dry Carpet & Upholstery Cleaning -> sales@fiberdry.com
+  ✅ Spin Kemp Laundromat -> info@spinkemplaundry.com
+  ✅ Appearance Plus Cleaners Inc. -> info@appearancepluscleaners.com
+  ❌ Bel-Aire Cleaners: {'name': 'ValidationError', 'errors': [{'origin': 'string', 'code': 'invalid_format', 'format': 'email', 'pattern': "/^(?!\\.)(?!.*\\.\\.)([A-Za-z0-9_'+\\-\\.]*)[A-Za-z0-9_+-]@([A-Za-z0-9][A-Za-z0-9\\-]*\\.)+[A-Za-z]{2,}$/", 'path': ['to', 0], 'message': 'Invalid email address'}]}
+
+Done! Sent 13/16 emails.

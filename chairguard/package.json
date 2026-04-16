@@ -1,0 +1,28 @@
+{
+  "name": "chairguard",
+  "version": "0.1.0",
+  "description": "No-show protection for salons",
+  "main": "src/backend/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/backend/index.js",
+    "dev": "node --watch src/backend/index.js",
+    "test": "node --test tests/*.test.js",
+    "db:migrate": "node src/backend/db/migrate.js",
+    "db:seed": "node src/backend/db/seed.js",
+    "email:send-test": "node scripts/send-test-email.js",
+    "cron:reminders": "node src/backend/services/reminder-cron.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node-cron": "^3.0.3",
+    "twilio": "^5.4.0",
+    "uuid": "^11.0.5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

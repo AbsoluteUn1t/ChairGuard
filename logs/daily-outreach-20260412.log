@@ -1,0 +1,18 @@
+[2026-04-12 17:00:01] === Daily Outreach Pipeline ===
+[2026-04-12 17:00:01] Fetching fresh BBB listings...
+[2026-04-12 17:00:02] BBB fetch: 180546 bytes
+[2026-04-12 17:00:02] Businesses needing emails: 6
+[2026-04-12 17:00:02] Researching 6 businesses via Mistral Nemo...
+[2026-04-12 17:02:24] Mistral found data for 6 businesses
+[2026-04-12 17:02:24]   ✓ Dublin Cleaners: info@dublincleanersonline.com
+[2026-04-12 17:02:24] Total with emails: 31
+[2026-04-12 17:02:24] Drafting 8 emails via mistral-nemo...
+[2026-04-12 17:06:20] ✓ Drafted 7 emails
+[2026-04-12 17:06:20] DONE: 51 total | 51 confirmed | 7 new today
+[2026-04-12 17:06:20]   Economy Linen & Towel Service of Zanesville and Columbus -> economylinen@gmail.com
+[2026-04-12 17:06:20]   Sunbury Cleaners -> info@sunburycleaners.com
+[2026-04-12 17:06:20]   The Columbus Lace Cleaning Company -> info@columbuslacecleaning.com
+[2026-04-12 17:06:20]   Soap City Laundry, LLC -> info@soapcitylaundry.com
+[2026-04-12 17:06:20]   Soap City Laundry, LLC -> info@soapcitylaundry.com
+[2026-04-12 17:06:20]   Sunbury Cleaners -> info@sunburycleaners.com
+[2026-04-12 17:06:20]   Eastwood Laundry Center, LLC -> eastwoodlaundry@msn.com

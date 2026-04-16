@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "source": "outscraper",
+    "query": "dry cleaner Ohio",
+    "scraped_at": "2026-04-14T14:10:38.544536",
+    "total": 15
+  },
+  "businesses": [
+    {
+      "name": "Dry Cleaning World",
+      "phone": "+1 614-764-1841",
+      "address": "2938 Hayden Run Plz, Columbus, OH 43235",
+      "website": null,
+      "email": null,
+      "rating": 4.8,
+      "reviews": 46,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.542950"
+    },
+    {
+      "name": "Granville Cleaners",
+      "phone": "+1 740-587-3961",
+      "address": "913 River Rd, Granville, OH 43023",
+      "website": "http://www.granvillecleaners.com/",
+      "email": null,
+      "rating": 4.8,
+      "reviews": 160,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543877"
+    },
+    {
+      "name": "Powell Cleaners",
+      "phone": "+1 614-420-2208",
+      "address": "3972 Powell Rd, Powell, OH 43065",
+      "website": "https://www.columbuscleaning.com/",
+      "email": null,
+      "rating": 4.9,
+      "reviews": 450,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543880"
+    },
+    {
+      "name": "Newark Granville Cleaners",
+      "phone": "+1 740-366-6909",
+      "address": "1062 Mt Vernon Rd, Newark, OH 43055",
+      "website": "http://www.newarkcleaners.com/",
+      "email": null,
+      "rating": 4.7,
+      "reviews": 298,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543881"
+    },
+    {
+      "name": "Ross Cleaners",
+      "phone": "+1 614-420-2208",
+      "address": "2964 E Broad St, Columbus, OH 43209",
+      "website": "https://www.columbuscleaning.com/ross-cleaners-columbus/",
+      "email": null,
+      "rating": 4.8,
+      "reviews": 490,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543883"
+    },
+    {
+      "name": "Long Cleaners",
+      "phone": "+1 937-429-3817",
+      "address": "2440 Dayton Xenia Rd # E, Beavercreek, OH 45434",
+      "website": "https://www.longcleaners.com/",
+      "email": null,
+      "rating": 4.8,
+      "reviews": 381,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543885"
+    },
+    {
+      "name": "Clothing Care Dry Cleaners",
+      "phone": "+1 614-488-3831",
+      "address": "2106 Tremont Ctr, Upper Arlington, OH 43221",
+      "website": "https://myclothingcare.com/",
+      "email": null,
+      "rating": 4.9,
+      "reviews": 166,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543886"
+    },
+    {
+      "name": "New Albany Cleaners",
+      "phone": "+1 614-548-8533",
+      "address": "4778 Morse Rd, Columbus, OH 43230",
+      "website": "https://dublincleaners.com/",
+      "email": null,
+      "rating": 4.7,
+      "reviews": 151,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543887"
+    },
+    {
+      "name": "London Cleaners",
+      "phone": "+1 440-901-0875",
+      "address": "4445 Hamann Industrial Pkwy, Willoughby, OH 44094",
+      "website": "https://londoncleaners.com/%3Futm_source%3DGoogle%2BBusiness%2BProfile%26utm_medium%3DGBP%26utm_campaign%3DGBP",
+      "email": null,
+      "rating": 4.8,
+      "reviews": 786,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543888"
+    },
+    {
+      "name": "Clothing Care Dry Cleaners",
+      "phone": "+1 614-475-4626",
+      "address": "125 N Hamilton Rd, Gahanna, OH 43230",
+      "website": "https://www.clothingcare.com/",
+      "email": null,
+      "rating": 4.8,
+      "reviews": 351,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543897"
+    },
+    {
+      "name": "Bart's Cleaners",
+      "phone": "+1 614-420-2208",
+      "address": "4332 N High St, Columbus, OH 43214",
+      "website": "https://www.columbuscleaning.com/",
+      "email": null,
+      "rating": 4.8,
+      "reviews": 600,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543898"
+    },
+    {
+      "name": "Martinizing Dry Cleaning",
+      "phone": "+1 614-939-5055",
+      "address": "7348 Fodor Rd, New Albany, OH 43054",
+      "website": "https://www.martinizing.com/newalbany",
+      "email": null,
+      "rating": 4.8,
+      "reviews": 598,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543899"
+    },
+    {
+      "name": "Fox Cleaners",
+      "phone": "+1 866-925-3603",
+      "address": "3979 Indian Ripple Rd, Beavercreek, OH 45440",
+      "website": "https://www.thefoxcleaners.com/",
+      "email": null,
+      "rating": 4.7,
+      "reviews": 169,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543900"
+    },
+    {
+      "name": "Northwest Cleaners",
+      "phone": "+1 614-459-6692",
+      "address": "5246 Godown Rd, Columbus, OH 43235",
+      "website": null,
+      "email": null,
+      "rating": 4.9,
+      "reviews": 298,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543901"
+    },
+    {
+      "name": "Cavalier Cleaners",
+      "phone": "+1 440-553-8667",
+      "address": "2919 W Market St, Fairlawn, OH 44333",
+      "website": "https://www.mycavalier.com/",
+      "email": null,
+      "rating": 4.8,
+      "reviews": 353,
+      "source": "outscraper-ohio-batch2",
+      "scraped_at": "2026-04-14T14:10:38.543902"
+    }
+  ]
+}

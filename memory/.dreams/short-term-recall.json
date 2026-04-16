@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-13T16:41:19.016Z",
+  "entries": {
+    "memory:memory/2026-04-10.md:1:34": {
+      "key": "memory:memory/2026-04-10.md:1:34",
+      "path": "memory/2026-04-10.md",
+      "startLine": 1,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "# Daily Notes — 2026-04-10 ## Blue Collar Growth Engine — Cold Email Campaign (Dublin OH Dry Cleaners) ### What's Running - **Daily pipeline**: `daily-outreach.py` cron job at 1PM EST - Searches web for dry cleaner business emails using Mistral Nemo - Fetches contact pages on discovered websites - Drafts personalized cold emails via Mistral Nemo - Saves results to `dublin-drycleaners.json` + `dublin-drycleaner-emails.json` - **Cron**: `0 17 * * * /home/curtis/.openclaw/workspace/daily-outreach.py` ### Email Database — Current Status **15 businesses with real emails** found so far: - Metropolitan Cleaners → 70mainmet@gmail.com - Sunbury Cleaners → info@sunburycleaners.com - Lamb's",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.1893688152346207,
+      "maxScore": 0.6195641647133683,
+      "firstRecalledAt": "2026-04-13T16:33:38.929Z",
+      "lastRecalledAt": "2026-04-13T16:41:19.016Z",
+      "queryHashes": [
+        "be1c18974919",
+        "3271b672206d"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "daily-outreach.py",
+        "dublin-drycleaners.json",
+        "dublin-drycleaner-emails.json",
+        "home/curtis",
+        "gmail.com",
+        "sunburycleaners.com",
+        "blue",
+        "collar"
+      ]
+    },
+    "memory:memory/2026-04-11.md:20:47": {
+      "key": "memory:memory/2026-04-11.md:20:47",
+      "path": "memory/2026-04-11.md",
+      "startLine": 20,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "- Swan Cleaners (4 locations) → swancleaners.com → info@swancleaners.com, sibang.kim@swandc.com - Powell Cleaners → columbuscleaning.com → info@columbuscleaning.com - Bart's Cleaners → columbuscleaning.com (same as Powell) - Liberty Cleaners → libertycleanersohio@gmail.com - Clothing Care Dry Cleaners & Shoe Repair → dbarna@logomat.com - Dry Cleaning World, Northwest Cleaners, Smoky Row Cleaners, Neighborhood Dry Cleaners, Dublin Tailging & Alterations, Hilliard Dry Cleaners — still need emails ## Enrichment Options Available on Outscraper - `contacts_n_leads` — emails, social links, phones from websites ✅ WORKING - `emails_validator_service` — validates deliverability, filters blacklists -",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.0002786414030282,
+      "maxScore": 0.500139667046968,
+      "firstRecalledAt": "2026-04-13T16:33:38.929Z",
+      "lastRecalledAt": "2026-04-13T16:41:19.016Z",
+      "queryHashes": [
+        "be1c18974919",
+        "3271b672206d"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "swancleaners.com",
+        "sibang.kim",
+        "swandc.com",
+        "columbuscleaning.com",
+        "gmail.com",
+        "logomat.com",
+        "contacts-n-leads",
+        "emails-validator-service"
+      ]
+    }
+  }
+}

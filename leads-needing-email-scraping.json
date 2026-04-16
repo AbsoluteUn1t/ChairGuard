@@ -1,0 +1,56 @@
+{
+  "saved_at": "2026-04-15T15:17:12.172106",
+  "note": "These businesses have websites but no email from Outscraper. Need website scraping to get contact emails.",
+  "leads": [
+    {
+      "name": "Ross Cleaners",
+      "website": "https://www.columbuscleaning.com/ross-cleaners-columbus/",
+      "reviews": 490
+    },
+    {
+      "name": "Clothing Care Dry Cleaners",
+      "website": "https://myclothingcare.com/",
+      "reviews": 166
+    },
+    {
+      "name": "Bart's Cleaners",
+      "website": "https://www.columbuscleaning.com/",
+      "reviews": 600
+    },
+    {
+      "name": "Martinizing",
+      "website": "https://martinizing.com/westerville-polaris-pkwy",
+      "reviews": 621
+    },
+    {
+      "name": "Martinizing Dry Cleaning",
+      "website": "https://www.martinizing.com/newalbany",
+      "reviews": 621
+    },
+    {
+      "name": "Granville Cleaners",
+      "website": "http://www.granvillecleaners.com/",
+      "reviews": 160
+    },
+    {
+      "name": "Dry Cleaning Station",
+      "website": "http://dcsonbethel.com/",
+      "reviews": 45
+    },
+    {
+      "name": "Clothing Care Dry Cleaners",
+      "website": "https://www.clothingcare.com/",
+      "reviews": 351
+    },
+    {
+      "name": "Midtown Dry Cleaners",
+      "website": "http://www.midtowndrycleaners.com/",
+      "reviews": 50
+    },
+    {
+      "name": "Powell Cleaners",
+      "website": "https://www.columbuscleaning.com/",
+      "reviews": 450
+    }
+  ]
+}
