@@ -1,0 +1,88 @@
+# Dependencies
+chairguard/node_modules/
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+*.env
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build outputs
+dist/
+build/
+*.tgz
+
+# OpenClaw workspace files (not needed in repo)
+.openclaw/
+.clawhub/
+HEARTBEAT.md
+BOOTSTRAP.md
+TOOLS.md
+memory/
+
+# Other workspace files (not ChairGuard)
+AGENTS.md
+SOUL.md
+IDENTITY.md
+USER.md
+campaign-queue.json
+cashclaw-competitor-analyzer/
+cashclaw-content-writer/
+cashclaw-core/
+cashclaw-dashboard.log
+cashclaw-data-scraper/
+cashclaw-email-outreach/
+cashclaw-hyrve.log
+cashclaw-invoicer/
+cashclaw-landing-page/
+cashclaw-lead-generator/
+cashclaw-reputation-manager/
+cashclaw-seo-auditor/
+cashclaw-social-media/
+cashclaw-whatsapp-manager/
+chairguard-campaign.json
+daily-outreach.py
+daily-outreach.sh
+dublin-drycleaner-emails.json
+dublin-drycleaners/
+dublin-drycleaners-outscraper.json
+dublin-drycleaners.json
+email-blacklist.json
+filtered-leads.json
+fiverr-niches-2026-04-11.md
+fiverr-seo-audit.html
+leads-needing-email-scraping.json
+logs/
+mission-control/
+ohio-drycleaners-batch2.json
+ohio-drycleaners-batch3.json
+ohio-drycleaners-new.json
+ohio-salons-batch1.json
+outscraper-search.py
+self-improving-outreach.py
+send-emails.js
+send-emails.py
+send-outreach.py
+send-queued-emails.py
+send-queued-emails.sh
+state/
