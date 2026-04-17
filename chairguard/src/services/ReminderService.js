@@ -1,5 +1,5 @@
 import { AppointmentModel } from '../models/Appointment.js';
-import { update } from '../db/database.js';
+import { update } from '../backend/db/database.js';
 
 /**
  * Reminder Service — sends automated appointment reminders

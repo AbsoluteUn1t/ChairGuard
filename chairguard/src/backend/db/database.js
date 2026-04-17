@@ -24,6 +24,16 @@ const statements = {};
  * Initialize database with schema
  */
 export function initDatabase(schemaPath = join(__dirname, 'schema.sql')) {
+  // Check if tables already exist
+  const existingTables = db.pragma('table_list').map(t => t.name);
+  const coreTables = ['salons', 'appointments', 'clients', 'leads', 'waitlist', 'email_sequences', 'activities', 'analytics_events'];
+  const tablesExist = coreTables.every(t => existingTables.includes(t));
+  
+  if (tablesExist) {
+    console.log('✅ Database already initialized (tables exist)');
+    return;
+  }
+  
   const schema = readFileSync(schemaPath, 'utf-8');
   
   // Split by semicolon to get individual statements, filter empty

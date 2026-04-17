@@ -1,5 +1,5 @@
 import { v4 as uuid } from 'uuid';
-import { query, get, insert, update } from '../db/database.js';
+import { query, get, insert, update } from '../backend/db/database.js';
 
 /**
  * EmailSequence Model — automated outreach sequences

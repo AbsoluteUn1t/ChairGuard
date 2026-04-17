@@ -1,5 +1,5 @@
 import { v4 as uuid } from 'uuid';
-import { query, get, run, insert, update } from '../db/database.js';
+import { query, get, run, insert, update } from '../backend/db/database.js';
 
 /**
  * Lead Model — CRM for prospect tracking

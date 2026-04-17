@@ -1,5 +1,5 @@
 import { v4 as uuid } from 'uuid';
-import { query, get, insert, update } from '../db/database.js';
+import { query, get, insert, update } from '../backend/db/database.js';
 
 /**
  * Client Model — tracks salon clients with no-show scoring

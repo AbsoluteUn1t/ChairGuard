@@ -1,4 +1,4 @@
-import { query } from '../db/database.js';
+import { query } from '../backend/db/database.js';
 
 /**
  * Email Service — sends emails via AgentMail API

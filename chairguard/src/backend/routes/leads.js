@@ -1,7 +1,7 @@
 import { Router } from 'express';
-import { LeadModel } from '../models/Lead.js';
-import { EmailSequenceModel } from '../models/EmailSequence.js';
-import { EmailService } from '../services/EmailService.js';
+import { LeadModel } from '../../models/Lead.js';
+import { EmailSequenceModel } from '../../models/EmailSequence.js';
+import { EmailService } from '../../services/EmailService.js';
 
 const router = Router();
 const emailService = new EmailService();
